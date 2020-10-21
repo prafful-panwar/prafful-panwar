@@ -46,11 +46,7 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="prafful-panwar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prafful-panwar&show_icons=true&hide_border=true&theme=radical" />
-
-</details>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prafful-panwar&show_icons=true&include_all_commits=true&theme=radical" alt="prafful-panwar's github stats" />
 
 [facebook]: https://www.facebook.com/praffulpanwar/
 [twitter]: https://twitter.com/prafful_panwar
