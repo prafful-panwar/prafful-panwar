@@ -48,6 +48,8 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prafful-panwar&show_icons=true&include_all_commits=true&theme=radical" alt="prafful-panwar's github stats" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=prafful_panwar" alt="prafful-panwar's Wakatime Activity" />
+
 [facebook]: https://www.facebook.com/praffulpanwar/
 [twitter]: https://twitter.com/prafful_panwar
 [linkedin]: https://www.linkedin.com/in/praffulpanwar
