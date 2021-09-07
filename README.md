@@ -37,18 +37,27 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phpstorm/phpstorm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 <br />
 
 ---
+## 📈 Stats:
+<div align='left'>
+    <img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+</div>
+<br />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prafful-panwar&show_icons=true&include_all_commits=true&theme=radical" alt="prafful-panwar's github stats" />
+<div align='left'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Neikan' alt='Github stats' align='center' />
+</div>
+<br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=prafful_panwar" alt="prafful-panwar's Wakatime Activity" />
+<div align='left'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=prafful_panwar&layout=compact' alt='Languages over last 7 days ' align='center' />
+</div>
+<br />
 
 [facebook]: https://www.facebook.com/praffulpanwar/
 [twitter]: https://twitter.com/prafful_panwar
