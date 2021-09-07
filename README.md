@@ -45,12 +45,12 @@
 ---
 ## 📈 Stats:
 <div align='left'>
-    <img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api?username=prafful-panwar&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
 </div>
 <br />
 
 <div align='left'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Neikan' alt='Github stats' align='center' />
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=prafful-panwar' alt='Github stats' align='center' />
 </div>
 <br />
 
