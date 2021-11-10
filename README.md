@@ -3,7 +3,7 @@
 ## I'm a Husband, Developer, and Boxer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I Love Booze
 
 <!-- ### Spotify Playing 🎧
