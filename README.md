@@ -2,6 +2,8 @@
 
 ## I'm a Husband, Developer, and Boxer!!
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prafful-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="prafful-panwar" /> </p> -->
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I Love Booze
@@ -47,6 +49,9 @@
 <div align='left'>
     <img src='https://github-readme-stats.vercel.app/api?username=prafful-panwar&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
 </div>
+<br />
+
+<p align="left"> <a href="https://github.com/prafful-panwar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafful-panwar" alt="prafful-panwar" /></a> </p>
 <br />
 
 <div align='left'>
