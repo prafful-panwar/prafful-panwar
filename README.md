@@ -1,23 +1,21 @@
 ### Hi there, I'm Prafful K Panwar 👋
 
-## I'm a Husband, Developer, and Boxer!!
+## I'm a Husband, Father, Developer, and Boxer!!
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prafful-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="prafful-panwar" /> </p> -->
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I Love Booze
+- 🥅 2023 Goals: Contribute to Open Source projects
+- 📄 Know about my experiences https://www.linkedin.com/in/prafful-panwar/
+- ⚡ Fun fact: I
 
+![](https://komarev.com/ghpvc/?username=prafful-panwar&color=blue)
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
-
-[<img align="left" alt="prafful | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="prafful | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prafful | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="https://linkedin.com/in/prafful-panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prafful-panwar" height="30" width="40" /></a>
 <br />
 
 ### Languages and Tools:
@@ -47,22 +45,22 @@
 ---
 ## 📈 Stats:
 <div align='left'>
-    <img src='https://github-readme-stats.vercel.app/api?username=prafful-panwar&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prafful-panwar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prafful-panwar" /></p>
 </div>
-<br />
-
-<p align="left"> <a href="https://github.com/prafful-panwar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafful-panwar" alt="prafful-panwar" /></a> </p>
-<br />
 
 <div align='left'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=prafful-panwar' alt='Github stats' align='center' />
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prafful-panwar&show_icons=true&locale=en&theme=tokyonight" alt="prafful-panwar" /></p>
 </div>
-<br />
 
-<div align='left'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=prafful_panwar&layout=compact' alt='Languages over last 7 days ' align='center' />
-</div>
-<br />
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=prafful-panwar&theme=tokyonight" alt="prafful-panwar" /></a> </p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prafful-panwar&&theme=tokyonight" alt="prafful-panwar" /></p>
+
+[//]: # (<div align='left'>)
+
+[//]: # (    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=prafful_panwar&layout=compact' alt='Languages over last 7 days ' align='center' />)
+
+[//]: # (</div>)
 
 [facebook]: https://www.facebook.com/praffulpanwar/
 [twitter]: https://twitter.com/prafful_panwar
