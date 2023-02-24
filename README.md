@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 📄 Know about my experiences https://www.linkedin.com/in/praffulpanwar/
-- ⚡ Fun fact: I
 
 ![](https://komarev.com/ghpvc/?username=prafful-panwar&color=blue)
 <!-- ### Spotify Playing 🎧
