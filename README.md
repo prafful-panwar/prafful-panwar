@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute to Open Source projects
-- 📄 Know about my experiences https://www.linkedin.com/in/prafful-panwar/
+- 📄 Know about my experiences https://www.linkedin.com/in/praffulpanwar/
 - ⚡ Fun fact: I
 
 ![](https://komarev.com/ghpvc/?username=prafful-panwar&color=blue)
@@ -15,7 +15,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
-<a href="https://linkedin.com/in/prafful-panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prafful-panwar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/praffulpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praffulpanwar" height="30" width="40" /></a>
 <br />
 
 ### Languages and Tools:
