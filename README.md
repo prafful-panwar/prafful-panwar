@@ -44,11 +44,11 @@
 ---
 ## 📈 Stats:
 <div align='left'>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prafful-panwar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prafful-panwar" /></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prafful-panwar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prafful-panwar" /></p>
 </div>
 
 <div align='left'>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prafful-panwar&show_icons=true&locale=en&theme=tokyonight" alt="prafful-panwar" /></p>
+    <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prafful-panwar&show_icons=true&locale=en&theme=tokyonight" alt="prafful-panwar" /></p>
 </div>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=prafful-panwar&theme=tokyonight" alt="prafful-panwar" /></a> </p>
