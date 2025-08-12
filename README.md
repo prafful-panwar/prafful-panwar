@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prafful-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="prafful-panwar" /> </p> -->
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2025 Goals: Contribute to Open Source projects
 - 📄 Know about my experiences https://www.linkedin.com/in/praffulpanwar/
 
 ![](https://komarev.com/ghpvc/?username=prafful-panwar&color=blue)
